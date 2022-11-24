@@ -13,6 +13,13 @@ pip install requirement.txt
 
 ## make data 
 
+skeleton is extracted like below FIG
+
+<div align="center">
+    <a href="./">
+        <img src="image.png" width="59%"/>
+    </a>
+</div>
 
 ``` shell
 python make_data.py --data ./data/train --type train
