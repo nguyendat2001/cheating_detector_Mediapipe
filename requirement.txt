@@ -1,0 +1,9 @@
+tensorflow
+matplotlib
+threading
+mediapipe
+pandas
+os
+cv2
+numpy
+argparse
