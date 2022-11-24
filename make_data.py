@@ -1,5 +1,5 @@
 # make data for training model
-# python make_data.py --data
+# python make_data.py --data ./data/train --type train
 
 import argparse
 import cv2
